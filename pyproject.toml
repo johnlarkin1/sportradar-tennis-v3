@@ -5,9 +5,9 @@ description = "A client library for accessing Tennis v3"
 authors = []
 readme = "README.md"
 packages = [
-    {include = "sportadar_tennis_v3"},
+    {include = "sportradar_tennis_v3"},
 ]
-include = ["CHANGELOG.md", "sportadar_tennis_v3/py.typed"]
+include = ["CHANGELOG.md", "sportradar_tennis_v3/py.typed"]
 
 
 [tool.poetry.dependencies]
